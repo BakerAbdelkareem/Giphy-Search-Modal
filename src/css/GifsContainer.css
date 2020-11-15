@@ -1,8 +1,4 @@
-/*
-Note: The biggest part of this css were taken from https://github.com/codrops/HoverEffectIdeas
-The effect that was used is named 'Sarah'.
-Only slight changes to adapt it to the project were made.
-*/
+
 
 .grid {
 	position: relative;
@@ -13,7 +9,7 @@ Only slight changes to adapt it to the project were made.
 	text-align: center;
 }
 
-/* Common style */
+
 .grid figure {
 	position: relative;
 	float: left;

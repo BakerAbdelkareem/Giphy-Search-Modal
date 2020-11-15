@@ -9,7 +9,7 @@ The requested features were:
  - [X] Search of gifs based on user input, using the API;
  - [X] Favourite gifs;
  - [X] List the favourite gifs;
- - [X] Favourites must persist between sessions.
+ - [X] Favourites must persist between sessions
  
  ## Setup
  

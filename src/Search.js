@@ -5,7 +5,7 @@ class Search extends Component {
     render() {
         return (   
                           
-                                <input type="text" placeholder="Enter the word"
+                                <input type="text" placeholder="search for GIFs"
                                     value={this.props.query} onChange={this.props.handleChange} />                   
         );
     }
